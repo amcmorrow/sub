@@ -4,5 +4,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/amcmorrow/sub.amcmorrow.com/
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp style.css $DEPLOYPATH
+        - /bin cp * $DEPLOYPATH                           #copy all from root 

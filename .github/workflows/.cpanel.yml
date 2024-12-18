@@ -1,7 +1,0 @@
-
-
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/amcmorrow/sub.amcmorrow.com/
-        - /bin cp * $DEPLOYPATH                           #copy all from root 
